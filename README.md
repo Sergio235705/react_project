@@ -82,9 +82,10 @@
 - `CarsTable` (in `CarsTableComponents.js`): Tabella Auto 
 (only _main_ components)
 ## Screenshot
-
+light mode
 ![Configurator Screenshot](./Conf2.png)
-
+dark mode
+![Configurator Screenshot](./Conf2.png)
 ## Test users
 * username: Sergio12@Gertz.com , password: AW2906   (frequent customer)
 * username: Diba98@Gertz.com , password:  JAVASCRIPT
