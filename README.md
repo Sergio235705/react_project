@@ -86,6 +86,9 @@ light mode
 ![Configurator Screenshot](./client/src/icons/Conf2.png)
 dark mode
 ![Configurator Screenshot](./client/src/icons/Conf1.png)
+## Suggerimenti per le funzionalità
+Nel db son già presenti vari noleggi della Auto di categoria D nel periodo intorno il 29 Giugno - 3 Luglio 
+Insistendo ad affittare in quel periodo quella categoria si dovrebbe arrivare a mostrare l'indisponibilità delle auto
 ## Test users
 * username: Sergio12@Gertz.com , password: AW2906   (frequent customer)
 * username: Diba98@Gertz.com , password:  JAVASCRIPT
