@@ -85,7 +85,7 @@
 light mode
 ![Configurator Screenshot](./Conf2.png)
 dark mode
-![Configurator Screenshot](./Conf2.png)
+![Configurator Screenshot](./Conf1.png)
 ## Test users
 * username: Sergio12@Gertz.com , password: AW2906   (frequent customer)
 * username: Diba98@Gertz.com , password:  JAVASCRIPT
