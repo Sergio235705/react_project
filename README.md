@@ -83,7 +83,7 @@
 (only _main_ components)
 ## Screenshot
 
-![Configurator Screenshot](./img/screenshot.jpg)
+![Configurator Screenshot](./img/Conf2.png)
 
 ## Test users
 * username: Sergio12@Gertz.com , password: AW2906   (frequent customer)
