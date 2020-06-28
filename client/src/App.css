@@ -1,38 +1,42 @@
 .App {
   text-align: center;
+ 
+
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
+html,body,#root{
+background-color:rgb(43,48,54);
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
 }
+#text {
+  line-height: 30px;
+}
+#textlittle {
+  font-size:8pt;
+}
+.light{
+    background-color: rgb(247,232,159);
+    color:black;
+   
+}
+.dark{  color:rgb(248,249,250)}
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
+  .DropItLight
+  {background-color: rgb(247,232,159);
+      color:black;
+    /*  background-color:rgb(43,48,54);
+      color:rgb(242,192,0)*/}
+  
+  .DropItDark
+  {background-color:rgb(43,48,54);
+          color:rgb(242,192,0);
+        }
+ #DropLogout
+{
+              background-color:rgb(249,192,0);
+              color:black;
+              font-style: italic;
+            }
 
-.App-link {
-  color: #61dafb;
-}
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
+          
